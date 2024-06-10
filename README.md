@@ -22,4 +22,4 @@ My name is Vladlen Korablev (@edlor_k):
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edlor_k&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edlor-k&show_icons=true&theme=radical)
