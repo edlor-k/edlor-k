@@ -22,9 +22,11 @@ My name is Vladlen Korablev (@edlor_k):
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edlor-k&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edlor-k&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edlor-k&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edlor-k&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edlor-k&theme=radical)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=edlor-k&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=edlor-k&color=blueviolet)
 
