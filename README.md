@@ -2,7 +2,7 @@
 
 My name is Vladlen Korablev (@edlor_k):
 
-🎓 Second-year student at Lobachevsky State University of Nizhny Novgorod (UNN)  
+🎓 Third-year student at Lobachevsky State University of Nizhny Novgorod (UNN)  
 🐍 Passionate about backend development with Python  
 🌐 Exploring various web technologies and frameworks  
 🚀 Always looking for opportunities to learn and grow  
