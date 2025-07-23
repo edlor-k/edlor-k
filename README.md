@@ -2,7 +2,7 @@
 
 My name is Vladlen Korablev (@edlor_k):  
 
-🎓 Third-year student at Lobachevsky State University of Nizhny Novgorod (UNN)  
+🎓 Fourth-year student at Lobachevsky State University of Nizhny Novgorod (UNN)  
 ☕ Exploring Java and mastering Spring Framework  
 🌐 Enthusiastic about scalable backend solutions  
 🚀 Striving to build clean, efficient, and maintainable code  
