@@ -1,6 +1,6 @@
 # Hi! 👋  
 
-My name is Vladlen Korablev (@edlor_k):  
+My name is Vladlen Korablev (@edlor-k):  
 
 🎓 Fourth-year student at Lobachevsky State University of Nizhny Novgorod (UNN)  
 ☕ Exploring Java and mastering Spring Framework  
